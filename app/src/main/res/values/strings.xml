@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TheBlocksAndTiles</string>
+    <string name="playButtonString">Play</string>
+    <string name="settingsButtonString">Settings</string>
+    <string name="settingsMainTittle">Adjust settings:</string>
+    <string name="brightnessText">Brightness</string>
+    <string name="title_activity_chooser">Chooser</string>
+    <string name="chooseSaveTV">Choose saving place:</string>
+    <string name="save1ButtonString">-- Load file: 1 --</string>
+    <string name="save2ButtonString">-- Load file: 2 --</string>
+    <string name="save3ButtonString">-- Load file: 3 --</string>
+
+</resources>

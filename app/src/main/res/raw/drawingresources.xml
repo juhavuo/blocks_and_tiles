@@ -1,0 +1,29 @@
+<drawingresources>
+    <hammer>
+        <x>900</x>
+        <y>600</y>
+    </hammer>
+    <modechooser>
+        <x>800</x>
+        <y>600</y>
+    </modechooser>
+    <boxarray name = "boxarray1">
+        <boxsize>100</boxsize>
+        <box id="1">
+            <bitmapID>blackredbox</bitmapID>
+        </box>
+        <box id = "2">
+            <bitmapID>blackbluebox</bitmapID>
+        </box>
+        <box id="3">
+            <bitmapID>blackgreenbox</bitmapID>
+        </box>
+        <box id="4">
+            <bitmapID>dirt</bitmapID>
+        </box>
+        <box id="5">
+            <bitmapID>stone</bitmapID>
+        </box>
+
+    </boxarray>
+</drawingresources>
